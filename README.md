@@ -1,2 +1,5 @@
-# Capstone-Project-Notebook
-https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/2d56deb1-712d-4071-8dd9-120fbe8b9250/view?access_token=44acb8465ff0e954a4f964cd90b68ce4f700cb9ba74f510fbdf8c56722f7b395
+As the provincial capital of Ontario and the most populous city in Canada, Toronto is an international centre of business, finance, arts, and culture, and is recognized as one of the most multicultural and cosmopolitan cities in the world.
+
+In this project, we will try to find an optimal location for a restaurant. Specifically, this report will be targeted to stakeholders interested in opening a Chinese restaurant in Toronto, Canada. Since there are lots of restaurants in Toronto, we will try to detect locations that are not already crowded with restaurants. We are also particularly interested in areas with no Chinese restaurants in the vicinity. We would also prefer locations as close to the city centre as possible, assuming that the first two conditions are met.
+
+We will use our data science powers to generate a few most promising neighbourhoods based on this criterion. Advantages of each area will then be clearly expressed so that the best possible final location can be chosen by stakeholders.
